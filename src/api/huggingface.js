@@ -4,7 +4,7 @@
  */
 
 const HF_MODEL = "stabilityai/stable-diffusion-xl-base-1.0";
-const HF_API_URL = `https://api-inference.huggingface.co/models/${HF_MODEL}`;
+const HF_API_URL = `https://router.huggingface.co/hf-inference/models/${HF_MODEL}`;
 
 /**
  * Generates an image from a text prompt using Stable Diffusion XL.
