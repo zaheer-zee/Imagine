@@ -1,6 +1,6 @@
-# DreamForge (Imagine) 🎨✨
+# Imagine 🎨✨
 
-An elegant, real-time AI image generation application powered by React, Vite, and the Hugging Face Inference API (Stable Diffusion XL). DreamForge provides a sleek, glassmorphic user interface to easily write prompts and instantly generate stunning AI art.
+An elegant, real-time AI image generation application powered by React, Vite, and the Hugging Face Inference API (Stable Diffusion XL). Imagine provides a sleek, glassmorphic user interface to easily write prompts and instantly generate stunning AI art.
 
 ## Features
 - **State-of-the-art Image Generation:** Uses `stable-diffusion-xl-base-1.0` to generate high-quality images.

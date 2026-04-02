@@ -111,9 +111,9 @@ export default function App() {
 
       {/* ── Header ───────────────────────────────────────────── */}
       <header className="header">
-        <a href="/" className="header-logo" aria-label="DreamForge home">
+        <a href="/" className="header-logo" aria-label="Imagine home">
           <div className="logo-icon" aria-hidden="true">✦</div>
-          <span className="logo-text">DreamForge</span>
+          <span className="logo-text">Imagine</span>
         </a>
         <span className="header-badge">Stable Diffusion XL</span>
       </header>
@@ -132,7 +132,7 @@ export default function App() {
             <span className="hero-title-gradient">Stunning Art</span>
           </h1>
           <p className="hero-subtitle">
-            Describe any scene, style, or concept and watch DreamForge
+            Describe any scene, style, or concept and watch Imagine
             transform it into breathtaking AI‑generated imagery in seconds.
           </p>
         </section>
@@ -350,7 +350,7 @@ export default function App() {
           </a>{" "}
           &amp;{" "}
           <a href="https://react.dev" target="_blank" rel="noopener noreferrer">React</a>
-          {" "}— DreamForge {new Date().getFullYear()}
+          {" "}— Imagine {new Date().getFullYear()}
         </p>
       </footer>
 
